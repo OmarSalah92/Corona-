@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.main{
+    margin-top:100px ;
+    margin-right: 200px;
+    margin: auto !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: cornflowerblue;
+    background-image: url(https://img.freepik.com/free-vector/medical-background-with-abstract-virus-cells-global-pandemic_1048-12124.jpg?w=740&t=st=1670711920~exp=1670712520~hmac=d4071b7…);
+    background-repeat: round;
+    background-size: cover;
+}
+
+.sub-main{
+    width: 100%;
+    height: 300px;
+    margin: auto;
+    margin-top: 100px;
+    display: grid;
+}
+
+h1{
+    align-items: center;
+    text-align: center;
+    color: initial
+}
+
+h5{
+    text-align: center;
+}
+
+.inp{
+    margin-top: 130px;
+}
+
+.container {
+    color: initial
+}
