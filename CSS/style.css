@@ -17,9 +17,9 @@
 body {
     width: 100%;
     height: 100%;
-    background-color: cornflowerblue;
+    background-color: white;
     background-image: url(https://img.freepik.com/free-vector/medical-background-with-abstract-virus-cells-global-pandemic_1048-12124.jpg?w=740&t=st=1670711920~exp=1670712520~hmac=d4071b7…);
-    background-repeat: round;
+    background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
 }
